@@ -1,6 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-i'm a bca student<br>i am a full stack developer<br>know various skills
+I’m a passionate Full Stack Developer and tech enthusiast currently pursuing BCA, focused on building modern, scalable, and user-friendly web applications. I work with the MERN stack and enjoy creating real-time applications, AI-powered tools, and dynamic frontend experiences.
+I’m constantly learning new technologies, improving problem-solving skills, and exploring areas like Artificial Intelligence, backend development, and system design. Alongside development, I’m also interested in fitness, productivity, and self-improvement.
 
 
 ## 🌐 Socials:
